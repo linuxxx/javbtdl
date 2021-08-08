@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
-#author:panda1987cs@gmail.com
 import requests
 import json
 import sqlite3
